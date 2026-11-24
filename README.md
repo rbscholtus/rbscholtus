@@ -2,8 +2,9 @@
 
 I build software in Go, mostly tools and retro emulators, and I like taking
 projects all the way: tests, CI, docs, and a version you can try in your
-browser. I build with AI coding agents. I'm also versed in Python, and over
-the years I've worked with PHP, JavaScript, Java and C/C++.
+browser. I've been coding for many years, and in recent years I build with AI
+coding agents too. I'm also versed in Python, and over the years I've worked
+with PHP, JavaScript, Java and C/C++.
 
 I work at RMIT University Vietnam on Student Administration Systems, using
 Oracle PeopleSoft and previously LiveCode.
@@ -11,7 +12,7 @@ Oracle PeopleSoft and previously LiveCode.
 #### 🕹️ Emulators and retro computing
 
 - **[Chippie](https://github.com/rbscholtus/chippie)**: a CHIP-8 emulator
-  dressed as a 1970s TV. Plays about 300 CHIP-8, SUPER-CHIP and XO-CHIP games
+  dressed as a 1970s TV. Plays over 300 CHIP-8, SUPER-CHIP and XO-CHIP games
   with the right quirks for each. Go → WebAssembly, tested against the
   Timendus test suite. [▶ Play in your browser](https://rbscholtus.github.io/chippie/)
 - **[go-comx](https://codeberg.org/barendscholtus/go-comx)**: a cycle-accurate
@@ -22,6 +23,7 @@ Oracle PeopleSoft and previously LiveCode.
   [▶ Try it](https://rbscholtus.github.io/chippie-rust/)
 - [cosmacelf.js](https://github.com/rbscholtus/cosmacelf.js): an emulator of
   the 1976 COSMAC ELF microcomputer, in JavaScript.
+  [▶ Try it](https://rbscholtus.github.io/cosmacelf.js/)
 - [Space-Invaders](https://github.com/rbscholtus/Space-Invaders): an emulator
   of the arcade Space Invaders hardware, in Java.
 
@@ -87,7 +89,3 @@ Oracle PeopleSoft and previously LiveCode.
 Go · Python · Rust · JavaScript · Java · PHP · C/C++ · WebAssembly ·
 Ebitengine · Svelte/SvelteKit · Firebase · Tailwind · GitHub Actions ·
 Playwright · Oracle PeopleSoft · LiveCode · ZMK/QMK keyboard firmware
-
-#### 📫 Find me
-
-[LinkedIn](https://vn.linkedin.com/in/barendscholtus)
