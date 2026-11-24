@@ -3,8 +3,9 @@
 I build software in Go, mostly tools and retro emulators, and I like taking
 projects all the way: tests, CI, docs, and a version you can try in your
 browser. I've been coding for many years, and in recent years I build with AI
-coding agents too. I'm also versed in Python, and over the years I've worked
-with PHP, JavaScript, Java and C/C++.
+coding agents too. I'm also versed in Python, I build web apps with Svelte,
+Firebase and Supabase, and I test them with Playwright. Over the years I've
+also worked with PHP, JavaScript, Java and C/C++.
 
 I work at RMIT University Vietnam on Student Administration Systems, using
 Oracle PeopleSoft and previously LiveCode.
@@ -86,9 +87,3 @@ Oracle PeopleSoft and previously LiveCode.
 - [trbs/pid](https://github.com/trbs/pid), Python PID files with locking: made
   it use the APPDATA and HOME locations on Windows
   ([PR #34](https://github.com/trbs/pid/pull/34)).
-
-#### 🛠️ Tools I use
-
-Go · Python · Rust · JavaScript · Java · PHP · C/C++ · WebAssembly ·
-Ebitengine · Svelte/SvelteKit · Firebase · Tailwind · GitHub Actions ·
-Playwright · Oracle PeopleSoft · LiveCode · ZMK/QMK keyboard firmware
