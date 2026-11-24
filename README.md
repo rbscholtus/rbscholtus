@@ -32,10 +32,9 @@ Oracle PeopleSoft and previously LiveCode.
 - **[Slicktimer](https://slicktimer.app)**: a minimalist time tracker with
   instant reports, the spiritual successor to SlimTimer. SvelteKit, Firebase
   and Tailwind, installable as a PWA. *(Private source.)*
-  [⏱ slicktimer.app](https://slicktimer.app)
 - **[tempsecret.link](https://tempsecret.link)**: end-to-end encrypted
   one-time secret sharing: send a password or key through a link that only
-  works once. *(Private source.)* [🔐 tempsecret.link](https://tempsecret.link)
+  works once. *(Private source.)*
 - **[fujiwatch](https://github.com/rbscholtus/fujiwatch)**: a daily price
   watcher for Fujifilm X-mount gear in Vietnamese camera shops. Runs on GitHub
   Actions, sends alerts, and publishes a Svelte price-history site.
@@ -46,16 +45,17 @@ Oracle PeopleSoft and previously LiveCode.
 - **[Keycraft](https://github.com/rbscholtus/keycraft)**: a command-line tool
   that analyses, ranks and optimises keyboard layouts, with detailed metrics
   and visualisations. [📊 Layout rankings](https://rbscholtus.github.io/keycraft/)
-- [zmk-config-zen-2](https://github.com/rbscholtus/zmk-config-zen-2) and
-  [Corne-OLED_Wireless_CNTC](https://github.com/rbscholtus/Corne-OLED_Wireless_CNTC):
-  my ZMK firmware configs for the Corne-ish Zen and Corne split keyboards.
+- [Corne-OLED_Wireless_CNTC](https://github.com/rbscholtus/Corne-OLED_Wireless_CNTC)
+  and [Sofle-oled_wireless](https://github.com/rbscholtus/Sofle-oled_wireless):
+  my ZMK firmware configs for my wireless Corne and Sofle split keyboards.
+<!-- TODO: add the animations for QMK keyboards with a display, once the source is committed. -->
 
 #### 🧰 Tools, teaching and experiments
 
 - [survivalist-gamedata](https://github.com/rbscholtus/survivalist-gamedata):
   a Python tool (on PyPI) that extracts crafting recipes and items from
-  *Survivalist: Invisible Strain*. Its output powers two
-  [Steam Community guides](https://steamcommunity.com/sharedfiles/filedetails/?id=2987340791).
+  *Survivalist: Invisible Strain*. Its output powers my
+  [Steam Community guides](https://steamcommunity.com/profiles/76561198290863984/myworkshopfiles/?section=guides&appid=1054510).
 - [go-webalizer](https://github.com/rbscholtus/go-webalizer): a web server log
   analyser in Go, with monthly charts and a world map of visitors.
 - [piedventure](https://github.com/rbscholtus/piedventure): the BashVenture
@@ -72,16 +72,19 @@ Oracle PeopleSoft and previously LiveCode.
 
 #### 🤝 Open-source contributions
 
+- [monkeytype](https://github.com/monkeytypegame/monkeytype), the typing test
+  site: added the Focal keyboard layout
+  ([PR #6196](https://github.com/monkeytypegame/monkeytype/pull/6196)).
 - [chip-8/chip-8-database](https://github.com/chip-8/chip-8-database): added
-  the 2 Page Display platform and its programs
-  ([PR #34](https://github.com/chip-8/chip-8-database/pull/34)), and keys hints
-  and notes for more ROMs
-  ([PR #36](https://github.com/chip-8/chip-8-database/pull/36)).
-- [beetbox/confuse](https://github.com/beetbox/confuse), painless YAML config
-  files for Python: made attributes in `AttrDict` properly writable
+  the 2 Page Display platform, 26 Octojam games and more ROMs
+  ([PRs #30–#34](https://github.com/chip-8/chip-8-database/pulls?q=is%3Apr+author%3Arbscholtus)),
+  and reported a bug in the
+  [Timendus CHIP-8 test suite](https://github.com/Timendus/chip8-test-suite/issues/38).
+- [beetbox/confuse](https://github.com/beetbox/confuse), YAML config files for
+  Python: made attributes in `AttrDict` properly writable
   ([PR #120](https://github.com/beetbox/confuse/pull/120)).
-- [trbs/pid](https://github.com/trbs/pid), Python PID files with stale
-  detection and locking: made it use the APPDATA and HOME locations on Windows
+- [trbs/pid](https://github.com/trbs/pid), Python PID files with locking: made
+  it use the APPDATA and HOME locations on Windows
   ([PR #34](https://github.com/trbs/pid/pull/34)).
 
 #### 🛠️ Tools I use
