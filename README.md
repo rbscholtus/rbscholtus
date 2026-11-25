@@ -16,6 +16,12 @@ Oracle PeopleSoft and previously LiveCode.
   dressed as a 1970s TV. Plays over 300 CHIP-8, SUPER-CHIP and XO-CHIP games
   with the right quirks for each. Go → WebAssembly, tested against the
   Timendus test suite. [▶ Play in your browser](https://rbscholtus.github.io/chippie/)
+- **[Space-Invaders](https://github.com/rbscholtus/Space-Invaders)**: an
+  emulator of the 1978 Space Invaders arcade machine, rewritten in Go from my
+  2010 Java version and compiled to WebAssembly. MAME's sound circuits are
+  ported, and the CPU is tested against the 8080 exercisers. Bring your own
+  ROMs.
+  [▶ Try it](https://rbscholtus.github.io/Space-Invaders/)
 - **[go-comx](https://codeberg.org/barendscholtus/go-comx)**: a cycle-accurate
   emulator, in Go, of the COMX-35 vintage home computer (PAL variant).
   [📝 Write-up](https://www.reddit.com/r/retrobattlestations/comments/1teqhom/built_a_cycleaccurate_comx35_emulator/)
@@ -25,8 +31,6 @@ Oracle PeopleSoft and previously LiveCode.
 - [cosmacelf.js](https://github.com/rbscholtus/cosmacelf.js): an emulator of
   the 1976 COSMAC ELF microcomputer, in JavaScript.
   [▶ Try it](https://rbscholtus.github.io/cosmacelf.js/)
-- [Space-Invaders](https://github.com/rbscholtus/Space-Invaders): an emulator
-  of the arcade Space Invaders hardware, in Java.
 
 #### 🌐 Web apps and automation
 
